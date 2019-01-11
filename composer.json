@@ -1,0 +1,21 @@
+{
+    "name": "huaweichenai/baidu-discern",
+    "description": "Baidu realizes picture recognition text package(百度实现图片识别文字包)",
+    "keywords": ["yii2","baidu","discern","extension"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "huaweichenai",
+            "email": "243681093@qq.com",
+            "homepage": "https://www.wj0511.com/"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "huaweichenai\\discern\\": "src"
+        }
+    }
+}
