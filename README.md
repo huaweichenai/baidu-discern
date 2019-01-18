@@ -9,7 +9,7 @@
 
 ## Installation<br>
 ```
-composer require huaweichenai/baidu-discern<br>
+composer require huaweichenai/baidu-discern
 ```
 ## Usage<br>
 ### Configuration:
