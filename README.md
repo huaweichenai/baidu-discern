@@ -15,7 +15,7 @@ composer require huaweichenai/baidu-discern
 ### Configuration:
 配置文件添加组件 :<br>
 ```
-'aipImg' => [<br>
+'aipImg' => [
             'class' => 'huaweichenai\discern\AipOcr',
             'appId' => '百度文字App ID',
             'apiKey' => '百度文字 API Key',
